@@ -1,9 +1,3 @@
-Excelente decisão! Fazer uma pausa e documentar o progresso é crucial em qualquer projeto, especialmente em um TCC de MBA. Isso ajuda a consolidar o aprendizado e a planejar os próximos passos.
-
-Preparei um arquivo Markdown (README.md) explicando tudo o que fizemos até agora, detalhando cada etapa do processo.
-
-Markdown
-
 # Projeto TCC MBA em Ciência de Dados: Precificação Dinâmica de SKUs
 
 Este documento detalha as etapas iniciais de um projeto de TCC de MBA em Ciência de Dados focado na implementação de um sistema de precificação dinâmica de SKUs, inspirado em estratégias de grandes players do varejo. O projeto combina previsão de demanda e otimização de preço, buscando maximizar receita ou margem de lucro.
